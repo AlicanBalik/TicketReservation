@@ -1,0 +1,8 @@
+"" 
+.vs/
+BuildProcessTemplates/
+packages/
+CinemaApp/Web
+CinemaApp/Web.Debug
+CinemaApp/Web.Release
+CinemaApp.sln
